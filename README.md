@@ -25,5 +25,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Alan21103&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan21103&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" scrset="https://raw.githubusercontent.com/Alan21103/Alan21103/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" scrset="https://raw.githubusercontent.com/Alan21103/Alan21103/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Alan21103/Alan21103/output/github-snake.svg" />
+
+</picture>
+
 
 
