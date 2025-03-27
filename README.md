@@ -12,13 +12,21 @@
 
 ---
 
-### 💻 About Me
-- 🔥 **Frontend Developer** who loves building **beautiful & interactive UI**  
-- 📱 Specializing in **Web & Mobile App Development**  
-- 💡 Passionate about **solving complex problems & challenges** in projects  
-- 🎯 Currently exploring **React, React Native, and Flutter**  
+# 📊 GitHub Stats  
 
-📩 **Reach me at:** [syahlansaputra03@gmail.com](mailto:syahlansaputra03@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan21103&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan21103&theme=dracula&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan21103&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" scrset="https://raw.githubusercontent.com/Alan21103/Alan21103/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" scrset="https://raw.githubusercontent.com/Alan21103/Alan21103/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Alan21103/Alan21103/output/github-snake.svg" />
+
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syhlnsaputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syahlansaputra03@gmail.com) 
