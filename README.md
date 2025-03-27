@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Syahlan Saputra</h1>
+<h3 align="center">🚀 Frontend Web & Mobile Developer | Passionate Problem Solver 💡</h3>
 
-<!--
-**Alan21103/Alan21103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syahlan-saputra&label=Profile%20Views&color=0e75b6&style=flat" alt="syahlan-saputra" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🔥 **Frontend Developer** who loves building **beautiful & interactive UI**  
+- 📱 Specializing in **Web & Mobile App Development**  
+- 💡 Passionate about **solving complex problems & challenges** in projects  
+- 🎯 Currently exploring **React, React Native, and Flutter**  
+
+📩 **Reach me at:** [syahlansaputra03@gmail.com](mailto:syahlansaputra03@gmail.com)
