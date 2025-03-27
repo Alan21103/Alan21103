@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syahlan Saputra</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF23A8&background=FF23D400&center=true&vCenter=true&width=435&lines=Welcome+to+Alan+Space)](https://git.io/typing-svg)
 <h3 align="center">🚀 Frontend Web & Mobile Developer | Passionate Problem Solver 💡</h3>
 
 <p align="center">
