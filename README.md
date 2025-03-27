@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF23A8&background=FF23D400&center=true&vCenter=true&width=435&lines=Welcome+to+Alan+Space!+Enjoy+My+Code)](https://git.io/typing-svg)
-<h3 align="center">🚀 Frontend Web & Mobile Developer | Passionate Problem Solver 💡</h3>
+
+<div align="center" style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif?cid=ecf05e47uv3wy6zbmk5ly9x723upet2hsdeavzb48aqywltm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100"/>
+  <h3>🚀 Frontend Web & Mobile Developer | Passionate Problem Solver 💡</h3>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syahlan-saputra&label=Profile%20Views&color=0e75b6&style=flat" alt="syahlan-saputra" />
